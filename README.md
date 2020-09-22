@@ -1,4 +1,4 @@
-# Firebase Web Codelab - Start code
+#Simple firebase project 
 
 Check out the working app at https://chattore-bbdd8.web.app/<br>
 
